@@ -13,3 +13,7 @@ Kurssilla aloitettiin aivan C++:n perusteista tavanomaisten muuttujien (`int`, `
 ### Käytännön toteutuksesta
 
 Tehtävät annettiin Tampereen Yliopiston Plussa-oppimisalustalla ja automaattitestattiin myös siellä. Palautuksen protokollana `git`tiä sekä palveluna GitLabbia. Itse ohjelmointi tapahtui Qt Creatorilla, jonka mukana tulee myös itse `Qt`. 
+
+### Oma oppiminen
+
+Koin kurssin ajoittain todella haastavaksi, sillä joka viikko oli paljon palautettavia tehtäviä, minkä lisäksi minun tuli tehdä myös muita kursseja samaan aikaan. Kävin myös aktiivisesti Tampereella osallistumassa viikkoharkkoihin, joissa tehtäväratkaisuja käytiin opettajan johdolla läpi. Tämä kaikki kuitenkin kannatti, sillä opin mielestäni melko paljon erilaisia asioita C++:sta ja osaankin kirjoittaa sillä jo erilaisia arvoja palauttavia funktioida sekä tehdä perustason tietorakenteiden käsittelyä. Koen myös osaavani Qt Creatorin käytön sekä `Qt`:n perusteet. 
