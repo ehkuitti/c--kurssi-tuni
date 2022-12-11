@@ -8,7 +8,7 @@ There were lectures once a week on the course, after which the weekly assignment
 
 ### Course content
 
-The course started right from the basics of C++ with handling of standard variables (`int`, `double', `char', etc.). As the course progressed, we got to know more complicated things, such as the concept of namespace (`using namespace std`), loop structures and writing various functions. In addition to this, we familiarized ourselves with data structures offered by the standard library (`std`), such as `std::string`, `std::vector`, `std::set`, and `std::map`. Around the middle of the course, we started getting to know header files and through that also object-oriented programming. We also learned how to process data from text files using `fstream', and how to make simple user interfaces with Qt.
+The course started right from the basics of C++ with handling of standard variables (`int`, `double`, `char`, etc.). As the course progressed, we got to know more complicated things, such as the concept of namespace (`using namespace std`), loop structures and writing various functions. In addition to this, we familiarized ourselves with data structures offered by the standard library (`std`), such as `std::string`, `std::vector`, `std::set`, and `std::map`. Around the middle of the course, we started getting to know header files and through that also object-oriented programming. We also learned how to process data from text files using `fstream`, and how to make simple user interfaces with Qt.
 
 ### About the practical implementation
 
@@ -16,4 +16,4 @@ The assignments were handed out on Tampere University's Plussa learning platform
 
 ### What I learned
 
-I found the course really challenging at times, because there were a lot of assignments to submit every week. I also actively travelled to Tampere to participate in weekly workshops, where problem solutions were reviewed under the teacher's guidance. I learned quite a lot of different things from C++ and can already write functions that return different kinds of values. I leaned to handle basic level data structures as well. I now know how to use Qt Creator and the basics of ``Qt''.
+I found the course really challenging at times, because there were a lot of assignments to submit every week. I also actively travelled to Tampere to participate in weekly workshops, where problem solutions were reviewed under the teacher's guidance. I learned quite a lot of different things from C++ and can already write functions that return different kinds of values. I leaned to handle basic level data structures as well. I now know how to use Qt Creator and the basics of `Qt`.
