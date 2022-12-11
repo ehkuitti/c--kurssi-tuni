@@ -1,4 +1,4 @@
-## [Programming 2: Structures](https://www.tuni.fi/fi/tule-opiskelemaan/fitech-ohjelmointi-2-rakenteet)
+## [Programming 2: Structures](https://www.tuni.fi/en/study-with-us/programming-2-structures-electronic-exam?navref=search--list)
 
 I participated in the Programming 2: Structures course offered by Tampere Open University in the fall of 2021. The course taught us how to use the C++ programming language. The original GitLab repo must be kept private for security reasons, which is why I copied its contents here.
 
