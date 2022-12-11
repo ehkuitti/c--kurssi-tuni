@@ -12,7 +12,7 @@ The course started right from the basics of C++ with handling of standard variab
 
 ### About the practical implementation
 
-The assignments were handed out on Tampere University's Plussa learning platform and were automatically tested there as well. We used ``git'' as a method of submission and a university-hosted GitLab server as a remote. The programming itself took place in Qt Creator, which also comes with ``Qt'' itself.
+The assignments were handed out on Tampere University's Plussa learning platform and were automatically tested there as well. We used `git` as a method of submission and a university-hosted GitLab server as a remote. The programming itself took place in Qt Creator, which also comes with `Qt` itself.
 
 ### What I learned
 
