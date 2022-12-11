@@ -8,7 +8,7 @@ There were lectures once a week on the course, after which the weekly assignment
 
 ### Course content
 
-The course started right from the basics of C++ with handling of standard variables (`int`, `double`, `char`, etc.). As the course progressed, we got to know more complicated things, such as the concept of namespace (`using namespace std`), loop structures and writing various functions. In addition to this, we familiarized ourselves with data structures offered by the standard library (`std`), such as `std::string`, `std::vector`, `std::set`, and `std::map`. Around the middle of the course, we started getting to know header files and through that also object-oriented programming. We also learned how to process data from text files using `fstream`, and how to make simple user interfaces with Qt.
+The course started right from the basics of C++ with handling of standard variables (`int`, `double`, `char`, etc.). As the course progressed, we got to know more complicated things, such as the concept of namespace (`using namespace std`), loop structures and writing various functions. In addition to this, we familiarized ourselves with data structures offered by the standard library `std`, such as `std::string`, `std::vector`, `std::set`, and `std::map`. Around the middle of the course, we started getting to know header files and through that also object-oriented programming. We also learned how to process data from text files using `fstream`, and how to make simple user interfaces with Qt.
 
 ### About the practical implementation
 
